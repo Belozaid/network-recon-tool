@@ -1,0 +1,4 @@
+Port Scan Report for target.com
+Date: 2026-03-15 20:57:48.886815
+Open ports: [80, 443]
+Total ports scanned: 1024

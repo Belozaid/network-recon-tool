@@ -1,0 +1,4 @@
+Port Scan Report for 192.168.52.1
+Date: 2026-03-15 20:55:26.979058
+Open ports: [135, 139, 445]
+Total ports scanned: 500

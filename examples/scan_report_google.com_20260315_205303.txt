@@ -1,0 +1,4 @@
+Port Scan Report for google.com
+Date: 2026-03-15 20:53:03.126593
+Open ports: [80, 443]
+Total ports scanned: 1000
