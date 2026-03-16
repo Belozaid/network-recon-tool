@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Scan reports
+scan_report_*.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+ENV/
